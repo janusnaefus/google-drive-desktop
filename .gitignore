@@ -1,0 +1,9 @@
+client_secret*.json
+*token*.json
+rclone.conf
+google-drive.conf*
+.env
+.env.*
+*.pem
+__pycache__/
+.DS_Store
